@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582161759755",
+    "project_id": "callkitexample-707b3",
+    "storage_bucket": "callkitexample-707b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582161759755:android:b5081d962b1f5e9706d10e",
+        "android_client_info": {
+          "package_name": "com.example.callkit_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHPYoiZhJHZAOpiGhhrkuzhBsw7c7s0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

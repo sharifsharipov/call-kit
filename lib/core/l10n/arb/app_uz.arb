@@ -1,0 +1,48 @@
+{
+  "@@locale": "uz",
+
+  "appTitle": "CallKit",
+
+  "actionRetry": "Qayta urinish",
+  "actionSend": "Yuborish",
+
+  "errorGenericTitle": "Nimadir xato ketdi",
+
+  "conversationsTitle": "Xabarlar",
+  "conversationsEmptyTitle": "Hozircha suhbatlar yo‘q",
+  "conversationsEmptyMessage": "Suhbat boshlang — u shu yerda ko‘rinadi.",
+  "conversationsUnreadCount": "{count, plural, =0{} one{{count}} other{{count}}}",
+  "@conversationsUnreadCount": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+
+  "chatEmptyTitle": "Xabarlar yo‘q",
+  "chatEmptyMessage": "Suhbatni boshlash uchun salom yozing.",
+  "chatInputHint": "Xabar",
+  "chatSendFailed": "Xabar yuborilmadi.",
+  "chatPresenceOnline": "Onlayn",
+  "chatPresenceOffline": "Oflayn",
+  "chatStartAudioCall": "Audio qo‘ng‘iroq",
+  "chatStartVideoCall": "Video qo‘ng‘iroq",
+
+  "dayToday": "Bugun",
+  "dayYesterday": "Kecha",
+
+  "callIncomingAudio": "Kiruvchi qo‘ng‘iroq",
+  "callIncomingVideo": "Kiruvchi video qo‘ng‘iroq",
+  "callOutgoingRinging": "Chalinmoqda…",
+  "callConnecting": "Ulanmoqda…",
+  "callEnded": "Qo‘ng‘iroq tugadi",
+  "callDeclined": "Rad etildi",
+  "callFailed": "Qo‘ng‘iroq amalga oshmadi",
+  "callCameraOff": "Kamera o‘chirilgan",
+
+  "callActionAccept": "Qabul qilish",
+  "callActionDecline": "Rad etish",
+  "callActionEnd": "Tugatish",
+  "callActionMute": "Ovozsiz",
+  "callActionUnmute": "Ovozni yoqish",
+  "callActionSpeaker": "Karnay",
+  "callActionCamera": "Kamera",
+  "callActionSwitchCamera": "Kamerani almashtirish"
+}

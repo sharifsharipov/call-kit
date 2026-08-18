@@ -1,0 +1,48 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "CallKit",
+
+  "actionRetry": "Retry",
+  "actionSend": "Send",
+
+  "errorGenericTitle": "Something went wrong",
+
+  "conversationsTitle": "Messages",
+  "conversationsEmptyTitle": "No conversations yet",
+  "conversationsEmptyMessage": "Start a chat and it will show up here.",
+  "conversationsUnreadCount": "{count, plural, =0{} one{{count}} other{{count}}}",
+  "@conversationsUnreadCount": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+
+  "chatEmptyTitle": "No messages yet",
+  "chatEmptyMessage": "Say hello to start the conversation.",
+  "chatInputHint": "Message",
+  "chatSendFailed": "Message could not be sent.",
+  "chatPresenceOnline": "Online",
+  "chatPresenceOffline": "Offline",
+  "chatStartAudioCall": "Start audio call",
+  "chatStartVideoCall": "Start video call",
+
+  "dayToday": "Today",
+  "dayYesterday": "Yesterday",
+
+  "callIncomingAudio": "Incoming call",
+  "callIncomingVideo": "Incoming video call",
+  "callOutgoingRinging": "Ringing…",
+  "callConnecting": "Connecting…",
+  "callEnded": "Call ended",
+  "callDeclined": "Call declined",
+  "callFailed": "Call failed",
+  "callCameraOff": "Camera is off",
+
+  "callActionAccept": "Accept",
+  "callActionDecline": "Decline",
+  "callActionEnd": "End call",
+  "callActionMute": "Mute",
+  "callActionUnmute": "Unmute",
+  "callActionSpeaker": "Speaker",
+  "callActionCamera": "Camera",
+  "callActionSwitchCamera": "Switch camera"
+}
